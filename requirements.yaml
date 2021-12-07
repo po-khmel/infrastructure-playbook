@@ -112,5 +112,7 @@ roles:
     version: 0.0.2
     ##add for db
   - name: natefoo.postgresql_objects
-
+  - name: geerlingguy.rabbitmq
+    version: 1.0.0
+ 
  
